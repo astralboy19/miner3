@@ -1,0 +1,2 @@
+# miner3
+BITCOIN MINER ONLY
